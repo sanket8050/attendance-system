@@ -1,0 +1,9 @@
+flask
+flask-cors
+pymongo
+flask-jwt-extended
+python-dotenv
+opencv-python
+deepface
+mediapipe
+numpy
